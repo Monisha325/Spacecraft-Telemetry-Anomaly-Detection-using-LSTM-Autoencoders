@@ -169,7 +169,7 @@ A strict **no-leakage pipeline** — all statistics derived exclusively from tra
 
 The Autocorrelation Function is computed for lags 1–100 across all 96 features. The window size is set to the maximum lag at which any feature's ACF first crosses within the 95% confidence band `±1.96 / √n`.
 
-![ACF — Window Size Selection](P1_acf.png)
+![ACF — Window Size Selection](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P1_acf.png?raw=true)
 
 > Feature 0 (blue) exhibits strong periodic autocorrelation that persists to high lags — evidence of a dominant oscillatory pattern in P-1's primary telemetry channel. Features 1 and 2 decorrelate by lag ~5. The window is set conservatively to capture the full temporal context of the slowest-decorrelating feature. **Selected window size: 41 timesteps.**
 
