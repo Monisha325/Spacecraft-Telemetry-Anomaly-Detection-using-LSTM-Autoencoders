@@ -72,7 +72,7 @@ The test set contains **3 labeled anomaly intervals** across ~8,500 timesteps â€
 
 ### Test Signal with Ground Truth Anomaly Regions
 
-![P-1 Test Telemetry with Anomaly Intervals](P1_data_check.png)
+![P-1 Test Telemetry with Anomaly Intervals](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P1_data_check.png?raw=true)
 
 > The top panel shows Feature 0 of the normalized test signal. The 3 red-shaded regions are the labeled anomaly intervals â€” notably, the anomalies manifest as **suppression of signal amplitude and variance** rather than large spikes. The bottom panel shows the corresponding binary ground-truth label array.
 
