@@ -157,7 +157,7 @@ A strict **no-leakage pipeline** — all statistics derived exclusively from tra
 
 **Leakage guard:** A dedicated cell asserts `np.allclose(train_min, scaler.data_min_)` — confirms the scaler was never exposed to test data. ✅
 
-![Preprocessing Visualization](P1_preprocessing.png)
+https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P1_preprocessing.png?raw=true
 
 > Top: raw Feature 0 (train=blue, test=orange). Middle: after MinMax normalization. Bottom: delta feature on test set with anomaly regions highlighted — the suppressed-variance anomalies are visible as low-activity windows in the delta signal.
 
