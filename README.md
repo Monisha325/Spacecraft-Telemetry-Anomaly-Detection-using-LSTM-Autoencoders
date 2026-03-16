@@ -302,7 +302,7 @@ Dynamic EWM selected — more robust to non-stationarity and slow signal drift o
 
 ### Confusion Matrix
 
-![Confusion Matrix](P-1_cm.png)
+![Confusion Matrix](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P-1_cm.png?raw=true)
 
 | | Predicted Normal | Predicted Anomaly |
 |---|---|---|
