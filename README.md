@@ -467,7 +467,7 @@ rocket_telemetry_project/
 
 ## 👨‍💻 About This Project
 
-**Institution:** ISRO Vikram Sarabhai Space Centre (VSSC)
+**Author** Patnana Monisha
 **Domain:** Deep Learning · Time Series · Anomaly Detection · Spacecraft Health Monitoring
 **Dataset:** NASA SMAP & MSL — 82 telemetry channels, real mission data
 
