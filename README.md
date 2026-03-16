@@ -215,7 +215,6 @@ Sliding window with `step=1` — maximum overlap for dense anomaly scoring. A **
 | Early stopping | patience=10, restore best weights |
 | LR reduction | ReduceLROnPlateau — factor=0.5, patience=5, min_lr=1e-6 |
 
-![Training Curves](P-1_training_curves.png)
 
 | Metric | Value |
 |---|---|
