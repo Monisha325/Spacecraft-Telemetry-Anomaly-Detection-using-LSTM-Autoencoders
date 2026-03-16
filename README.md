@@ -282,7 +282,7 @@ Two strategies compared on training error distribution:
 
 Dynamic EWM selected — more robust to non-stationarity and slow signal drift over mission lifetime.
 
-![Reconstruction Error Distribution](P-1_error_dist.png)
+![Reconstruction Error Distribution](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P-1_error_dist.png?raw=true)
 
 > The training error distribution is bimodal. The dominant cluster near `10⁻³` represents well-reconstructed normal windows. The secondary cluster near `10⁻²` reflects higher-complexity normal windows (e.g. high-variance bursts, pattern transitions). Both thresholds correctly sit beyond the right tail of this distribution.
 
