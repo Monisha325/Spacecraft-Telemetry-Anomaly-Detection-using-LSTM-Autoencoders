@@ -311,7 +311,7 @@ Dynamic EWM selected — more robust to non-stationarity and slow signal drift o
 
 ### ROC Curve
 
-![ROC Curve — AUC=0.467](P-1_roc.png)
+![ROC Curve — AUC=0.467](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P-1_roc.png?raw=true)
 
 ### Precision-Recall Curve
 
