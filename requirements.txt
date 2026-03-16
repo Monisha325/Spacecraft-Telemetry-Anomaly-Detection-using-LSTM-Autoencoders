@@ -1,0 +1,25 @@
+ 
+# ── Deep Learning ────────────────────────────────────────────
+tensorflow>=2.12.0
+ 
+# ── Data Processing ─────────────────────────────────────────
+numpy>=1.23.0
+pandas>=1.5.0
+ 
+# ── Machine Learning Utilities ───────────────────────────────
+scikit-learn>=1.2.0
+joblib>=1.2.0
+ 
+# ── Visualization ────────────────────────────────────────────
+matplotlib>=3.6.0
+seaborn>=0.12.0
+ 
+# ── Dataset Download ─────────────────────────────────────────
+kagglehub>=0.2.0
+ 
+# ── Notebook Environment (Google Colab pre-installed) ────────
+# jupyter>=1.0.0        # Uncomment for local Jupyter usage
+# ipykernel>=6.0.0      # Uncomment for local kernel usage
+ 
+# ── Optional: GPU support ────────────────────────────────────
+# tensorflow-gpu>=2.12.0  # Use instead of tensorflow for GPU

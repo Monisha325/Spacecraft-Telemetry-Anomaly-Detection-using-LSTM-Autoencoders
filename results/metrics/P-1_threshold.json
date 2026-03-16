@@ -1,0 +1,10 @@
+{
+    "channel_id": "P-1",
+    "threshold": 0.015402192331065389,
+    "method": "dynamic",
+    "params": {
+        "z": 3.0,
+        "span": 10
+    },
+    "timestamp": "2026-03-14T05:16:30.887887"
+}
