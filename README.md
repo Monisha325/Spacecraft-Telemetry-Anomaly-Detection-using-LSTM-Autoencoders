@@ -315,7 +315,7 @@ Dynamic EWM selected — more robust to non-stationarity and slow signal drift o
 
 ### Precision-Recall Curve
 
-![Precision-Recall Curve — AP=0.097](P-1_pr_curve.png)
+![Precision-Recall Curve — AP=0.097](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P-1_pr_curve.png?raw=true)
 
 ---
 
