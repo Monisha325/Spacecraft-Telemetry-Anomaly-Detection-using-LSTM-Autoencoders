@@ -183,7 +183,7 @@ The Autocorrelation Function is computed for lags 1–100 across all 96 features
 
 Sliding window with `step=1` — maximum overlap for dense anomaly scoring. A **chronological 90/10 train/val split** (no shuffling) preserves temporal ordering.
 
-![Sequence Sample](P1_sequence_sample.png)
+![Sequence Sample](https://github.com/Monisha325/Spacecraft-Telemetry-Anomaly-Detection-using-LSTM-Autoencoders/blob/main/results/plots/P1_sequence_sample.png?raw=true)
 
 > Top: full normalized test signal (Feature 0). Middle: a single highlighted window at the onset of anomaly interval 1. Bottom: feature heatmap of that window across all 96 features — most features are near-zero (teal) with a few high-activity channels visible as bright columns.
 
